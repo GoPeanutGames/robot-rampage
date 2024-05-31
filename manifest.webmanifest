@@ -1,6 +1,6 @@
 {
-    "name": "PeanutDashboard",
-    "short_name": "PeanutDashboard",
+    "name": "Robot Rampage",
+    "short_name": "Robot Rampage",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
